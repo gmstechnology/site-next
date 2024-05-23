@@ -1,0 +1,515 @@
+[        
+    {
+        "class":"detector-portatil",
+        "name":"SDM-72", 
+        "description":"Capaz de diagnosticar a condição do rolamento, mesmo muito antes que a vibração induzida pelo desgaste se torne detectável, medindo a quantidade de pó de aço na graxa ao redor do rolamento.",
+        "gas":["Concentração de pó de aço na graxa"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1887/01/sdm72.73_en_a.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/sdm72.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"SDM-73", 
+        "description":"Capaz de diagnosticar a condição do rolamento, mesmo muito antes que a vibração induzida pelo desgaste se torne detectável, medindo a quantidade de pó de aço no óleo ao redor do rolamento.",
+        "gas":["Concentração de pó de aço no óleo lubrificante"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1887/01/sdm72.73_en_a-1.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/sdm73.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KD-12 series",
+        "description":"Detector de gás tipo difusão com display e alarme. Fácil de substituir sua unidade de sensor.",
+        "gas":["gás combustível", "gás tóxico", "oxigênio", "dióxido de carbono", "etc."],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2015/01/kd12series_en_b.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/kd12b.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PD-12 series",
+        "description":"Detector de gás tipo extração com display e alarme. Fácil de substituir sua unidade de sensor.",
+        "gas":["gás combustível", "gás tóxico", "etc."],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/pd12%E6%AD%A3%E9%9D%A2%EF%BC%88%E8%89%B2%E8%AA%BF%E6%95%B4%E6%B8%88%E3%83%BB%E7%84%A1%E8%AD%A6%E5%A0%B1%E6%99%82%E3%83%BB%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%81%82%E3%82%8A%EF%BC%89.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PE-2CC/PE-2DC",
+        "description":"Detector de gás do tipo extrativo para detecção de gases combustíveis.",
+        "gas":["gás combustível"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/pe2cc%EF%BC%8Fpe2dc%EF%BC%8Fpe2cz.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XP-703DIII", 
+        "description":"sensor de semicondutor de fio quente",
+        "gas":["hidrogênio","arsino","diborano","silano","fosfina"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xp703d3%E3%83%8A%E3%83%8A%E3%83%A1.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XP-3380II", 
+        "description":"Mede a concentração do oxigênio de 0 a 25 vol%",
+        "gas":["oxigênio"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/06/xp3000IIseries_en_b-2.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/06/XP-3310II_%E6%89%8B%E6%8C%81%E3%81%A11%E3%82%AC%E3%82%B9-1.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XO-2200", 
+        "description":"Monitor pessoal de oxigênio portátil.",
+        "gas":["oxigênio"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/06/xp3000IIseries_en_b-2.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xo2200.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XP-3380II", 
+        "description":"Mede a concentração do oxigênio de 0 a 25 vol%",
+        "gas":["oxigênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xo3262a.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XP-3368II-W / XP-3368II / XP-3318II", 
+        "description":"gás combustível e gás solvente : catalítico, oxigênio : galvanico",
+        "gas":["gás combustível", "gás solvente", "oxigênio"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/06/xp3000IIseries_en_b.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/06/XP-3000II_%E6%89%8B%E6%8C%81%E3%81%A1.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XP-3360II-W / XP-3360II / XP-3310II", 
+        "description":"catalítico",
+        "gas":["gás combustível","solvente de vapor"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/06/xp3000IIseries_en_b-1.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/06/XP-3000II_%E6%89%8B%E6%8C%81%E3%81%A1.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XC-2200", 
+        "description":"Detector de monóxido de carbono pessoal portátil.",
+        "gas":["monóxido de carbono"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xc2200.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XS-2200", 
+        "description":"Detector de sulfeto de hidrogênio pessoal portátil.",
+        "gas":["Sulfeto de Hidrogênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xs2200.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XPS-7", 
+        "description":"Pode ser usado para uma variedade de gases semicondutores, alterando um sensor de gás plug in play.",
+        "gas":["gases semicondutores"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xps7.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XPS-7II", 
+        "description":"Vários gases semicondutores podem ser detectados mudando a unidade do sensor.",
+        "gas":["gases semicondutores"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/09/xps7II.jpg"
+    },              
+    {
+        "class":"detector-portatil",
+        "name":"XA-4400II", 
+        "description":"Até 4 gases de oxigênio/gás combustível/sulfeto de hidrogênio/monóxido de carbono podem ser medidos de uma só vez com exibição simultânea.",
+        "gas":["gás combustíveis","sulfeto de hidrogênio","monóxido de carbono","oxigênio"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xa4000IIcat201508.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xa44002%E3%83%8A%E3%83%8A%E3%83%A1.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XOC-2200", 
+        "description":"Detector de oxigênio pessoal e monóxido de carbono portátil.",
+        "gas":["oxigênio","monóxido de carbono"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xoc2200.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XOS-2200", 
+        "description":"Detector de oxigênio pessoal e monóxido de carbono portátil.",
+        "gas":["oxigênio", "sulfeto de hidrogênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xos2200.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XP-302M", 
+        "description":"oxigênio/ gás combustível/ sulfeto de hidrogênio/ monóxido de carbono pode ser medido de uma só vez com exibição simultânea.",
+        "gas":["gás combustíveis","sulfeto de hidrogênio","monóxido de carbono","oxigênio"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/XP302M.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/1897/01/xp302m.jpg"
+    },               
+    {
+        "class":"detector-portatil",
+        "name":"XP-333IIA", 
+        "description":"Adequado para manutenção de caldeira a gás, aquecedor de água a gás, etc..",
+        "gas":["monóxido de carbono"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/XP-333IIA-1.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xp333%E2%85%A1A-1.jpg"
+    },               
+    {
+        "class":"detector-portatil",
+        "name":"XP-3120-V", 
+        "description":"Monitor de VOC portátil adequado para medição no local de VOCs abrangentes.",
+        "gas":["VOC"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1895/01/xp3120v_en_a.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/11/xp3120v.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XP-704III", 
+        "description":"Semicondutor de fio quente.",
+        "gas":["R-22","R-32","R-404A","R-407C","R-600a","R-410A","R-134a","R-290","HFO-1234yf"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xp7043%E3%83%8A%E3%83%8A%E3%83%A1.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XG-100V", 
+        "description":"O VOC de baixa concentração pode ser analisado com um alto grau de precisão.",
+        "gas":["Tolueno","xileno","etil benzeno","estireno"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xg100vpc.jpg"
+    },
+    {
+        "class":"detector-portatil",
+        "name":"XP-308B", 
+        "description":"Detector simplificado de formaldeído para edifícios, escolas, fábricas, etc.",
+        "gas":["Formaldeído"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xp308b.jpg"
+    },
+
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-120Cv / NV-120Ci",
+        "description":"Sistemas compactos de alarme de gás de ponto único para gás combustível.",
+        "gas":["gás combustível"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1894/01/nv120_en_c.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/06/nv120cv.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-120Hv / NV-120Hi",
+        "description":"Sistemas compactos de alarme de gás de ponto único para gás combustível (alta sensibilidade).",
+        "gas":["gás combustível"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1894/01/nv120_en_c-1.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/06/nv120hv.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-120Dx",
+        "description":"Sistemas compactos de alarme de gás de ponto único para gases tóxicos.",
+        "gas":["gás combustível"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1894/01/nv120_en_c-2.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/06/nv120dx.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-120Sx",
+        "description":"Sistemas compactos de alarme de gás de ponto único para oxigênio.",
+        "gas":["oxigênio"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1894/01/nv120_en_c-3.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/06/nv120sx.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-120Sx",
+        "description":"Sistemas compactos de alarme de gás de ponto único para oxigênio.",
+        "gas":["oxigênio"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1894/01/nv120_en_c-3.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/06/nv120sx.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-120Mx",
+        "description":"Sistemas compactos de alarme de gás de ponto único para entrada 4-20ADC.",
+        "gas":["conforme detector de gás conectado"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1894/01/nv120_en_c-4.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/06/nv120mx.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-100C",
+        "description":"Sistema compacto de alarme de gás tipo ponto único para gases combustíveis.",
+        "gas":["combustão catalítica"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100cat200502.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100c.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-100H",
+        "description":"Sistema compacto de alarme de gás tipo ponto único para gases combustíveis (alta sensibilidade).",
+        "gas":["gás combustível (GLP, metano, etc.)"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100cat200502.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100h.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-100D",
+        "description":"Sistema compacto de alarme de gás tipo ponto único para gás tóxico/gás semicondutor.",
+        "gas":["célula eletroquímica"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100cat200502.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100d.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-100S",
+        "description":"Sistema compacto de alarme de gás tipo ponto único para oxigênio.",
+        "gas":["oxigênio (deficiência/vazamento)"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100cat200502.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100s.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-100M",
+        "description":"Sistema compacto de alarme de gás tipo ponto único para entrada 4-20ADC.",
+        "gas":["conforme detector de gás conectado"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100cat200502.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv100m%E6%AD%A3%E9%9D%A2.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KS-7O",
+        "description":"Indicador e alarme de gás compacto e leve, tipo peça única.",
+        "gas":["oxigênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/ks7o.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PGD-120",
+        "description":"Tipo desktop para monitorar mais de 20 gases trocando um sensor de gás plug and play.",
+        "gas":["gases de fabricação de semicondutores", "gás combustível" , "oxigênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/pgd120.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"B-780",
+        "description":"Sistema de alarme de gás de três pontos simples e confiável para monitoramento de GLP/Metano.",
+        "gas":["GLP", "Metano"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/06/b780_en_a.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2020/06/b780.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"UV-810",
+        "description":"Sistemas combinados de detecção de gás com unidade indicadora V3, unidade de alarme, unidade de comunicação e vários cabeçotes detectores de gás.",
+        "gas":[],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/uv810%E6%96%9C%E3%82%81.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"NV-500",
+        "description":"Sistema de alarme de gás tipo multiponto (máx. 12 pontos) para GLP ou metano.",
+        "gas":["GLP", "Metano"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv500cat201007.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/nv500-1.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"B-770",
+        "description":"Sistema simples de alarme de gás tipo multiponto (máx. 3 pontos) para GLP ou gás urbano.",
+        "gas":["GLP", "town gas"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/b770.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"V3 series",
+        "description":"Unidade indicadora, unidade de alarme e unidade de comunicação para combinar com cada cabeçote detector de gás.",
+        "gas":["Hv", "Hi", "Cv", "Ci", "Tv","Ti", "D", "O", "M"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/V3%E6%8C%87%E7%A4%BA%E8%A8%88_%E8%AD%A6%E5%A0%B1_%E9%80%9A%E4%BF%A1%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%83%8A%E3%83%8A%E3%83%A1_1201.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PS-7-M",
+        "description":"Vários gases detectados pela troca de unidades de sensores, redução significativa no trabalho de manutenção.",
+        "gas":["gases combustíveis", "gás tóxico", "oxigênio"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/05/ps7m.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/05/ps7m_left.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KD-12HT",
+        "description":"Detecção direta de solvente de alto ponto de ebulição no forno de secagem.",
+        "gas":["N-Metil-2-Pirrolidona (NMP)"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2021/10/KD-12HT_T.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PS-7",
+        "description":"Pode ser usado para uma variedade de gases semicondutores, alterando um sensor de gás plug and play.",
+        "gas":["gases de fabricação de semicondutores", "hidrogênio", "oxigênio", "etc."],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/ps7cat200808.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/ps7.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KS-7R",
+        "description":"Detector NDIR CO2 pequeno e leve.",
+        "gas":["dióxido de carbono"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1894/01/ks7r_en_b.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2019/10/ks7r.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KS-7R",
+        "description":"Detector NDIR CO2 pequeno e leve.",
+        "gas":["dióxido de carbono"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1894/01/ks7r_en_b.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2019/10/ks7r.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KS-7D",
+        "description":"Indicador de gás e alarme de peça única compacto e leve para CO.",
+        "gas":["monóxido de carbono"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/ks7d.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KD-2A/KD-3A",
+        "description":"Detector de gás do tipo extrativo para detecção de gases combustíveis.",
+        "gas":["gás combustível"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/KD2A%EF%BD%A5KD-2AS-NH3-1.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KD-5A/KD-5B",
+        "description":"Detector de gás do tipo extrativo para detecção de gases combustíveis.",
+        "gas":["gás combustível"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/kd5a%EF%BD%A5kd5d%E3%82%B0%E3%83%AC%E3%83%BC.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KD-14",
+        "description":"Detector de gás do tipo extrativo para detecção de gases combustíveis.",
+        "gas":["gás combustível", "gás tóxico"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/kd14b.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PD-14",
+        "description":"Detector de gás tipo extrativo. Fácil de substituir sua unidade de sensor.",
+        "gas":["hidrogênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/pd14bd%EF%BC%88%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%EF%BC%89.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KS-2D-N/KS-2O-N",
+        "description":"Detector de gás tipo difusão para detecção de gases tóxicos e oxigênio.",
+        "gas":["gás tóxico","oxigênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2022/02/ks2on.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PS-2DP-N/PS-2DE-Ex",
+        "description":"Detector de gás tipo extrativo para detecção de gases tóxicos.",
+        "gas":["gás tóxico"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2022/02/ps2opn.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PS-2OP-N/PS-2OE-Ex",
+        "description":"Detector de gás tipo extrativo para detecção de oxigênio.",
+        "gas":["oxigênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2022/02/ps2opn.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"KS-2D/KS-2O",
+        "description":"Detector de gás tipo difusão para detecção de gases tóxicos e oxigênio.",
+        "gas":["gás tóxico","oxigênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/ks2oks2d.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"PS-2OP/PS-2OE",
+        "description":"Detector de gás tipo extrativo para detecção de oxigênio.",
+        "gas":["oxigênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/PS2OP.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"COD-203",
+        "description":"Monitoramento contínuo de produtos químicos no local de trabalho.",
+        "gas":[],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2022/12/cod203_en_a.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2022/12/cod203.jpg"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
+        "name":"V-819",
+        "description":"Sistema de monitoramento constante multiponto de odor, quantificando a intensidade do odor.",
+        "gas":["Vários componentes de fragrância", "odor de sulfeto de hidrogênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/v819green%E5%90%88%E6%88%90.jpg"
+    },
+    {
+        "class":"sensores-odor-monitores-qualidade-ar",
+        "name":"XP-329IIIR",
+        "description":"Exiba instantaneamente a intensidade do odor com números digitais.",
+        "gas":["vários odores e componentes de odor"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xp3293r.jpg"
+    },
+    {
+        "class":"sensores-odor-monitores-qualidade-ar",
+        "name":"XP-329m",
+        "description":"Exiba instantaneamente a intensidade do odor com números digitais.",
+        "gas":["vários odores e componentes de odor"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2022/02/xp329m%E3%83%8A%E3%83%8A%E3%83%A1.jpg"
+    },
+    {
+        "class":"sensores-odor-monitores-qualidade-ar",
+        "name":"ESM-100/NC-80/NC-100/NC-120 CAN-NETSU-KUN",
+        "description":"Detecta o odor causado por materiais isolantes superaquecidos.",
+        "gas":[],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2022/02/xp329m%E3%83%8A%E3%83%8A%E3%83%A1.jpg"
+    },
+    {
+        "class":"sensores-odor-monitores-qualidade-ar",
+        "name":"V-819",
+        "description":"Sistema de monitoramento constante multiponto de odor, quantificando a intensidade do odor.",
+        "gas":["Vários componentes de fragrância", "odor de sulfeto de hidrogênio"],
+        "pdf":"",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2022/02/xp329m%E3%83%8A%E3%83%8A%E3%83%A1.jpg"
+    },
+    {
+        "class":"medidores-po-aco",
+        "name":"SDM-73",
+        "description":"Capaz de diagnosticar a condição do rolamento, mesmo muito antes de a vibração induzida pelo desgaste se tornar detectável, medindo a quantidade de pó de aço no óleo ao redor do rolamento.",
+        "gas":["Concentração de pó de aço no óleo lubrificante"],
+        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1887/01/sdm7273_en_b-1.pdf",
+        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/sdm73.jpg"
+    }       
+]

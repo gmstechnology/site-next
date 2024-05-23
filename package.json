@@ -5,13 +5,24 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next dev",
+    "lint": "next lint",
+    "export": "next export"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.3.3",
+    "@sentry/react": "^8.4.0",
+    "@sentry/tracing": "^7.114.0",
+    "@types/ua-parser-js": "^0.7.39",
+    "dotenv": "^16.4.5",
+    "framer-motion": "^11.1.7",
+    "fs": "^0.0.1-security",
+    "next": "14.1.4",
+    "nodemailer": "^6.9.13",
     "react": "^18",
+    "react-bootstrap": "^2.10.2",
     "react-dom": "^18",
-    "next": "14.1.4"
+    "ua-parser-js": "^1.0.37"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
