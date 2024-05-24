@@ -13,6 +13,8 @@ export async function sendMail(data){
     })
     try{
         const testResult = await transport.verify()
+        console.log("testResult")
+        console.log(testResult)
     }catch(err){
         console.log(err)
         return
@@ -29,6 +31,8 @@ export async function sendMail(data){
                 `
 
         })
+        console.log("sendResult")
+        console.log(sendResult)
         return true
     }catch(err){
         console.log(err)
