@@ -25,25 +25,33 @@ export async function sendMail(data){
         });
     })
 
-    await new Promise((resolve, reject) => {
+    try{
+        let send = await new Promise((resolve, reject) => {
 
-    let mailData = {
-                from: SMTP_EMAIL,
-                to: ["larissa.c.hirata@gmail.com"],// "henrique.h@gmstechnology.com.br", "erick.h@gmstechnology.com.br"
-                subject: `${data.name} mostrou interesse no equipamento ${data.eqName}`,
-                html: 
-                    `<h4> Mandar email para ${data.name} - ${data.email} sobre o equipamento: ${data.eqName} </h4>
-                        <br />
-                    <p> ${data.name} escreveu: ${data.msg}</p>
-                    `}
-    transport.sendMail(mailData, (err, info) => {
-        if (err) {
-            console.error(err);
-            reject(err);
-        } else {
-            console.log(info);
-            resolve(info);
-        }
-    })
-    })
+        let mailData = {
+                    from: SMTP_EMAIL,
+                    to: ["larissa.c.hirata@gmail.com"],// "henrique.h@gmstechnology.com.br", "erick.h@gmstechnology.com.br"
+                    subject: `${data.name} mostrou interesse no equipamento ${data.eqName}`,
+                    html: 
+                        `<h4> Mandar email para ${data.name} - ${data.email} sobre o equipamento: ${data.eqName} </h4>
+                            <br />
+                        <p> ${data.name} escreveu: ${data.msg}</p>
+                        `}
+        transport.sendMail(mailData, (err, info) => {
+            if (err) {
+                console.error(err);
+                reject(err);
+            } else {
+                console.log(info);
+                resolve(info);
+            }
+        })
+        })
+        console.log("send")
+        return send
+    }catch(err){
+        return err
+    }
+
+   
 }
