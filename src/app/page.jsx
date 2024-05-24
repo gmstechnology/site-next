@@ -20,16 +20,16 @@ export default function Home() {
       </main>
         <a  className="fixed w-48 right-0 bottom-0 inset-y-0 text-center z-50 self-end" href="https://api.whatsapp.com/send?phone=5511982252014" target="_blank">
             <img className="
-            w-8 
-            h-8
-            -mt-24
-            ml-36
-            md:w-10 
-            md:h-10
-            md:ml-20
-            md:mb-12
-            mr-2
-            " src='/whatsIcon.png' />
+              w-8 
+              h-8
+              -mt-24
+              ml-36
+              md:w-10 
+              md:h-10
+              md:ml-20
+              md:mb-12
+              mr-2
+              " src='/whatsIcon.png' />
         </a>
         <Footer />
     </div>
