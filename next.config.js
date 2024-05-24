@@ -17,6 +17,11 @@ const nextConfig = {
    
     // Optional: Change the output directory `out` -> `dist`
     // distDir: 'dist',
+    env: {
+      SMTP_EMAIL: process.env.SMTP_EMAIL,
+      SMTP_PASSWORD: process.env.SMTP_PASSWORD
+
+    }
 
   }
    

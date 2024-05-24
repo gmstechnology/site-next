@@ -6,6 +6,11 @@ const nextConfig = {
     // reactStrictMode: true,
     // distDir: "build",
     // output: "export"
+    env: {
+      SMTP_EMAIL: process.env.SMTP_EMAIL,
+      SMTP_PASSWORD: process.env.SMTP_PASSWORD
+
+    }
   }
    
   module.exports = nextConfig
