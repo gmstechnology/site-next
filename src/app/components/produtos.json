@@ -17,6 +17,14 @@
     },
     {
         "class":"sistemas-detecção-alarme",
+        "name":"Torre de sinalização Ex",
+        "description":"Capaz de sinalizar com rapidez e segurança em áreas classificadas, mesmo em condições extremas, com resposta inferior a 0,3 segundos e alta resistência à corrosão, atendendo à certificação Ex db eb IIC T6 IP66.",
+        "gas":["-"],
+        "pdf":"",
+        "image":"https://image.made-in-china.com/202f0j00UkIlMcmjfyfp/Hazardous-Area-90dB-120dB-180dB-Explosion-Proof-Alarm-Sound-Light-with-Speaker.webp"
+    },
+    {
+        "class":"sistemas-detecção-alarme",
         "name":"KD-12 series",
         "description":"Detector de gás tipo difusão com display e alarme. Fácil de substituir sua unidade de sensor.",
         "gas":["gás combustível", "gás tóxico", "oxigênio", "dióxido de carbono", "etc."],
@@ -159,14 +167,6 @@
         "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/XP-333IIA-1.pdf",
         "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/10/xp333%E2%85%A1A-1.jpg"
     },               
-    {
-        "class":"detector-portatil",
-        "name":"XP-3120-V", 
-        "description":"Monitor de VOC portátil adequado para medição no local de VOCs abrangentes.",
-        "gas":["VOC"],
-        "pdf":"https://www.newcosmos-global.com/wp/wp-content/uploads/1895/01/xp3120v_en_a.pdf",
-        "image":"https://www.newcosmos-global.com/wp/wp-content/uploads/2016/11/xp3120v.jpg"
-    },
     {
         "class":"detector-portatil",
         "name":"XP-704III", 
